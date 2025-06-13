@@ -44,7 +44,7 @@ export default function BlogPage() {
         project with all of you, you will be fantastically surprised. I&apos;m
         not going to tell you exactly what I am planning, but I promise that it
         will be fun and interactive. I&apos;ll give you a four-word hint as to
-        what it is: <span className="font-bold">build whatever you want</span>.
+        what it is: <span className="font-bold">make your own pages</span>.
       </p>
       <Divider className="my-8" />
       <div className="flex gap-2 md:gap-4 md:items-center flex-col md:flex-row mb-4 md:mb-0">
