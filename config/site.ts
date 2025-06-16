@@ -16,39 +16,19 @@ export const siteConfig = {
       label: "Blog",
       href: "/blog",
     },
-    {
-      label: "Page 3",
-      href: "/page-3",
-    },
-    {
-      label: "Page 4",
-      href: "/page-4",
-    },
-    {
-      label: "Page 5",
-      href: "/page-5",
-    },
   ],
   navMenuItems: [
     {
-      label: "Page 1",
-      href: "/page-1",
+      label: "Home",
+      href: "/",
     },
     {
-      label: "Page 2",
-      href: "/page-2",
+      label: "My Projects",
+      href: "/projects",
     },
     {
-      label: "Page 3",
-      href: "/page-3",
-    },
-    {
-      label: "Page 4",
-      href: "/page-4",
-    },
-    {
-      label: "Page 5",
-      href: "/page-5",
+      label: "Blog",
+      href: "/blog",
     },
   ],
   links: {
